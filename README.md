@@ -1,2 +1,2 @@
 # Juego
-Es un juego basico en python para practicar 
+Es un juego basico en python para practicar, hola papulinces 
